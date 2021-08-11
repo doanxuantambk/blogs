@@ -28,7 +28,7 @@ twitter_username: doanxuantambk
 github_username:  doanxuantambk
 
 # Build settings
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
