@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2021-08-11 16:59:37 +0700
-categories: personal_info
+title:  "Pyspark những điều cần biết"
+date:   2021-08-12 20:59:37 +0700
+categories: machine_learning
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
